@@ -21,5 +21,13 @@
   },
   "keywords": ["memory", "context", "agents", "ai", "embeddings", "semantic-search"],
   "author": "Kit",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DVNTYDIGITAL/better-memory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DVNTYDIGITAL/better-memory/issues"
+  },
+  "homepage": "https://github.com/DVNTYDIGITAL/better-memory#readme"
 }

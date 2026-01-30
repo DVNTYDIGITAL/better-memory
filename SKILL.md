@@ -1,7 +1,7 @@
 ---
 name: better-memory
 description: Semantic memory, intelligent compression, and context management for AI agents. Prevents context limit amnesia with real embeddings, priority-based compression, and identity persistence.
-homepage: https://github.com/clawdbot/better-memory
+homepage: https://github.com/DVNTYDIGITAL/better-memory
 metadata:
   clawdbot:
     emoji: "🧠"
